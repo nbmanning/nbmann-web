@@ -7,7 +7,7 @@ author: "The R Markdown Team @RStudio"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
-# for listing page layout
+# for listing page layout - can change
 layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
