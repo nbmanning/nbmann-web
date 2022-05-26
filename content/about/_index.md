@@ -1,9 +1,10 @@
 ---
-title: "About"
+title: "About Me"
 description: |
   A Hugo theme made for R Markdown users.
 show_header: true
 sidebar_left: false
+sidebar_right: true
 # Keep this! Do not edit.
 cascade:
   headless: true

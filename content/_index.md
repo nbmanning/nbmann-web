@@ -4,13 +4,13 @@ subtitle: "Land Change Scientist"
 description: "Welcome! Glad you're here. I am currently studying the cascading changes between and across agricultural systems while earning my Master's degree at Michigan State University."
 date: 2019-02-18T12:27:33-06:00
 images:
-  - img/revoir.jpg
+  - img/mebeach.png
 image_left: false
 text_align_left: false
 show_social_links: true # specify social accounts in site config
 show_action_link: true
 action_link: /about
-action_label: "Read More &rarr;"
+action_label: "More about me &rarr;"
 action_type: text # text, button
 type: home
 ---
