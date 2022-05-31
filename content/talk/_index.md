@@ -1,8 +1,8 @@
 ---
-title: Talks that Last
+title: Talks / Presentations
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
-author: "The R Markdown Team @RStudio"
+  A list of talks/ presentations / workshops in chronological order
+author: "Nick Manning"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
@@ -12,11 +12,9 @@ layout: list # list, list-sidebar
 
 # for list-sidebar layout
 sidebar: 
-  title: Talks that Last
+  title: Talks / Presentations 
   description: |
-    This is a list for your talks, workshops, or 
-    other events with a time, date, and place. 
-    Even this sidebar offers a ton of customizations.
+    
     
     Check out the _index.md file in the /talk folder 
     to edit this content. 
@@ -27,7 +25,7 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "The R Markdown Team @RStudio"
+  author: "Nick Manning"
   show_author_byline: true
   show_post_date: true
   show_post_time: true
