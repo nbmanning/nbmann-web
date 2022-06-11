@@ -1,8 +1,8 @@
 ---
-title: A Spoonful of Hugo
+title: Resources & Guides 
 description: |
-  A forking fun new feature for series.
-author: Alison Hill
+  A soup of some resources I’ve made and/or found useful over the years. Hopefully you can find something here to make getting through this life a little easier!
+author: Nick Manning
 show_post_thumbnail: false
 show_author_byline: true
 show_post_date: true
